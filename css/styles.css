@@ -1,7 +1,6 @@
 /* Navbar container */
 .navbar {
   overflow: hidden;
-
   font-family: Arial;
   flex-direction: row;
 }

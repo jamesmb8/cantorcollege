@@ -20,5 +20,13 @@
 <?php
 include("header.php");
 ?>
+
+<div class="container">
+   <img class = "containerImage" src="images/Computingcoursepic.jpg"></div> 
+
+
+
+
+
 </body>
 </html>
