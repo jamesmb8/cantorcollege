@@ -28,7 +28,5 @@
                 <a href="InfoForStudents.php">Information for students</a>
             </div>
     </div>
-    <div class ="dropdownoverall">
-    <a href="ContactUs.php">Contact Us</a>
-    </div>
+    
 </div>
