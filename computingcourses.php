@@ -20,6 +20,9 @@
 <?php
 include("header.php");
 ?>
+<div class="title">
+  <h1>Computing Courses</h1>
+</div>
 
 <div class="container">
    <img class = "containerImage" src="images/Computingcoursepic.jpg" >

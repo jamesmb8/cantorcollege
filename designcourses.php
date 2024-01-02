@@ -20,10 +20,14 @@
 <?php
 include("header.php");
 ?>
+
+<div class="title">
+  <h1>Design Courses</h1>
+</div>
     
-    <div class="container">
+  
    <img class = "containerImage" src="images/IMG_0170.jpeg" >
-</div> 
+
 
 <div class = "paragraph" >
 <p>The College is an internationally connected creative community of diverse disciplines housed under one roof. <p>

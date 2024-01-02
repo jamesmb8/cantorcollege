@@ -11,6 +11,7 @@
       href="css/styles.css"
       media ="only screen and (min-width : 720px)"
     />
+    <script src="javascript.js"></script>
     <meta name="viewport" content="width=device-width,initial-scale=1">
 
     <title>About Us</title>
@@ -21,18 +22,23 @@
 <?php
 include("header.php");
 ?>
-
+<div class="title">
+  <h1>Home</h1>
+</div>
     
-       
+      
+<?php
+include("imageslider.php");
+?>
         
         
        
       
         
-<div class="container">
-   <img class = "containerImage" src="images/CampusLandscape.jpg" alt = "Campus Photo"></div> 
 
-    <div class = "paragraphHome">
+ 
+
+    <div class = "paragraph">
         <p>Cantor College was established in 1989 to specialize in Computing and Design.</p>
         <p>At Cantor College, we want to give students the education they need to achieve their career aims, leaving them equipped with the knowledge, skills and experience to succeed.</p>
        <p> Cantor College gives you the opportunities that can give you the edge when you enter the world of work, through our teaching and our links to some of the world's leading researchers and employers.</P>

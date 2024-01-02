@@ -21,6 +21,9 @@
 include("header.php");
 ?>
     
+<div class="title">
+  <h1>Working With Business</h1>
+</div>
 
 <div class = "paragraph" >  
   <p>We here at Cantor College realize that it is better to extend virally than to revolutionize cyber-macro-extensibly. We will innovate the capability of mega-viral ubiquitous CAD to cultivate.</p>
