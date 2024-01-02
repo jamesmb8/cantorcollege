@@ -34,9 +34,9 @@ include("header.php");
 
   </div>
   
-  <div class="container">
-   <img class = "containerImage" src="images/ACES-032-Computing-Playstation-Lab.jpg" >
-</div> 
+
+   <img class = "rightfloatcom" src="images/ACES-032-Computing-Playstation-Lab.jpg" >
+
 
 <div class = "paragraph" >
   <p> The College teaches undergraduate and postgraduate courses in a wide range of specialisms, including 

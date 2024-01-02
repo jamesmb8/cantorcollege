@@ -30,7 +30,7 @@ include("header.php");
       
         
 <div class="container">
-   <img class = "containerImage" src="images/CampusLandscape.jpg"></div> 
+   <img class = "containerImage" src="images/CampusLandscape.jpg" alt = "Campus Photo"></div> 
 
     <div class = "paragraphHome">
         <p>Cantor College was established in 1989 to specialize in Computing and Design.</p>

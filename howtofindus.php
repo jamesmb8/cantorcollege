@@ -21,5 +21,29 @@
 include("header.php");
 ?>
     
+
+   
+   <img class = "containerImage" src="images/872SHUSpaceCitymap.jpg" alt = "Campus Map">
+  
+
+
+   <img class = "rightfloatfind" src="images/cantor-gallery.jpg" alt = "Building Exterior">
+  <div class = "paragraph" >
+ <p> How to find us: </p>
+<p> Cantor College </p>
+<p> Main Street </p>
+<p>Sheffield </p>
+<p>SC4 2BB </p>
+
+</div>
+
+
+  
+
+
+  <?php
+include("footer.php");
+?>
+
 </body>
 </html>
