@@ -11,7 +11,7 @@
       href="css/styles.css"
       media ="only screen and (min-width : 720px)"
     />
-    <script src="javascript.js"></script>
+    
     <meta name="viewport" content="width=device-width,initial-scale=1">
 
     <title>About Us</title>
@@ -53,6 +53,9 @@ include("imageslider.php");
 <?php
 include("footer.php");
 ?>
+
+
+<script src="javascript.js"></script>
 </body>
 </div>
 </html>
