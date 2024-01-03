@@ -52,7 +52,9 @@ computer science, software development, information systems, networking and soft
 
 
 </div>
-
+<?php
+include("courseList.php");
+?>
 
 <?php
 include("footer.php");
